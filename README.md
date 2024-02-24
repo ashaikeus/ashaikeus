@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my profile 👋
+
+Thank you for visiting my page! ⭐
+
+I love programming. I mostly do Python and C/C++, I also enjoy fiddling around with HTML + CSS very much.
+
+Aside of coding, I make electronic music and study languages.
+
+Take a look at some of my projects:
 
 <!--
 **ashaikeus/ashaikeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
