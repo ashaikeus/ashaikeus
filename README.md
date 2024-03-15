@@ -2,7 +2,7 @@
 
 - **Main language:** Python
 - **Other strong languages:** C, C++
-- **Dabble in and enjoy:** Django, PostgreSQL, HTML + CSS
+- **Dabble in:** Django, PostgreSQL, HTML + CSS
 - **Hobbies:** making electronic music, studying foreign languages
 - **English:** C1 (Advanced)
 
