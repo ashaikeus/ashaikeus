@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 
 - **Main language:** Python
-- **Other strong languages:** C, C++
+- **Other strengths:** C, C++
 - **Dabble in:** Django, PostgreSQL, HTML + CSS
 - **Hobbies:** making electronic music, studying foreign languages
 - **English:** C1 (Advanced)
