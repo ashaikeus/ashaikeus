@@ -1,10 +1,10 @@
 ### Welcome to my profile 👋
 
-Thank you for visiting my page! ⭐
-
-I love programming. I mostly do Python and C/C++, I also enjoy fiddling around with HTML + CSS very much.
-
-Aside of coding, I make electronic music and study languages.
+- **Main language:** Python
+- **Other strong languages:** C, C++
+- **Dabble in and enjoy:** Django, PostgreSQL, HTML + CSS
+- **Hobbies:** making electronic music, studying foreign languages
+- **English:** C1 (Advanced)
 
 Take a look at some of my projects:
 
