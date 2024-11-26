@@ -1,8 +1,9 @@
 ### Welcome to my profile 👋
 
-- **Main language:** Python
+- **Main stack:** Python 3, Django, Django REST Framework, PostgreSQL
+- **Tools I use confidently:** Docker Compose, Git and Gitlab *(duh)*, Linux
 - **Other strengths:** C, C++
-- **Dabble in:** Django, PostgreSQL, HTML + CSS
+- **Dabble in:** HTML + CSS
 - **Hobbies:** making electronic music, studying foreign languages
 - **English:** C1 (Advanced)
 
